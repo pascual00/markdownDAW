@@ -1,8 +1,8 @@
 # PASCUAL VICEDO GUERRA
 ## Programador web 
-### Image
 
-![foto](IMG_1692.jpg)
+![alt text](IMG_1692.JPG)
+
 ### Datos personales
 - > 20 Años
 - > Coche propio

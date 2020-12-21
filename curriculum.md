@@ -8,11 +8,11 @@
 - > Coche propio
 
 ### Trabajos
-- > 3 meses de practicas desarrollando webs en wordpress
+- > 3 meses de practicas desarrollando webs en __wordpress__
 
 ### Formación
 - > Grado Medio en Sistemas Microinformácticos y Redes
-- > Actualmente cursando 2º curso del superior en Desarrollo de Aplicaciones Web.
+- > Actualmente cursando 2º curso del __superior__ en Desarrollo de __Aplicaciones Web__.
 
 ### Idiomas
 - > Valenciano alto
@@ -21,7 +21,7 @@
 
 ### Lenguajes de programación que domino
 
-| Lenguaje | Nivel |
+| __Lenguaje__ | __Nivel__ |
 | ----------- | ----------- |
 | PHP | Bajo |
 | Java | Alto |
